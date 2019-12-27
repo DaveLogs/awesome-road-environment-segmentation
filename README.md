@@ -43,11 +43,11 @@ Captured from Cityscapes (https://www.cityscapes-dataset.com/examples/)
 | [**A2D2**](https://www.audi-electronics-venture.de/aev/web/en/driving-dataset.html)<sup>1)</sup> | road, sidebars, curbstone, ...  | 38 classes / 41,280 images  | [*Features*](https://www.audi-electronics-venture.de/aev/web/en/driving-dataset/dataset.html) |
 | [**ApolloScape (Scene Parsing)**](http://apolloscape.auto/scene.html) | road, sidewalk, fence, ...      | 37 classes / 74,555 images  | [*Features*](http://apolloscape.auto/scene.html)             |
 | [**DeepDrive**](https://bdd-data.berkeley.edu/)<sup>2)</sup> | road, sidewalk, guard rail, ... | 40 classes / 10,000 images  | [*Features*](https://bdd-data.berkeley.edu/)                 |
-| [**KITTI**](http://www.cvlibs.net/datasets/kitti/)<sup>3)</sup> | road, sidewalk, guard rail, ... | 34 classes / 400 images     | [*Features*](http://www.cvlibs.net/datasets/kitti/eval_semseg.php?benchmark=semantics2015) |
+| [**KITTI**](http://www.cvlibs.net/datasets/kitti/)<sup>2)</sup> | road, sidewalk, guard rail, ... | 34 classes / 400 images     | [*Features*](http://www.cvlibs.net/datasets/kitti/eval_semseg.php?benchmark=semantics2015) |
 
 1) A2D2: AEV(Audi Electronics Venture) Autonomous Driving Dataset
 
-2) 3) Class code inspired by 'cityscapes'. [(ref.)](https://github.com/mcordts/cityscapesScripts/blob/master/cityscapesscripts/helpers/labels.py)
+2) Class code inspired by 'cityscapes'. [(ref.)](https://github.com/mcordts/cityscapesScripts/blob/master/cityscapesscripts/helpers/labels.py)
 
 
 
