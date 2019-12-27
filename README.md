@@ -16,7 +16,9 @@ Captured from Cityscapes (https://www.cityscapes-dataset.com/examples/)
 
 - *[Tensorflow]* https://github.com/tensorflow/models/tree/master/research/deeplab
 - *[Tensorflow]* https://github.com/tantara/JejuNet
+- *[Tensorflow]* https://github.com/parachutel/deeplabv3plus_on_Mapillary_Vistas
 - *[Keras]* https://github.com/bonlime/keras-deeplab-v3-plus
+- *[Keras]* https://github.com/Golbstein/Keras-segmentation-deeplab-v3.1
 - *[PyTorch]* https://github.com/jfzhang95/pytorch-deeplab-xception
 - *[PyTorch]* https://github.com/y-ouali/pytorch_segmentation
 - [*more...*](https://paperswithcode.com/paper/encoder-decoder-with-atrous-separable#code)
@@ -65,8 +67,9 @@ Captured from Cityscapes (https://www.cityscapes-dataset.com/examples/)
 
 ## Getting Started Guide
 
-- https://towardsdatascience.com/a-keras-pipeline-for-image-segmentation-part-1-6515a421157d
-- https://github.com/mrgloom/keras-semantic-segmentation-example
+- [A Keras Pipeline for Image Segmentation](https://towardsdatascience.com/a-keras-pipeline-for-image-segmentation-part-1-6515a421157d)
+- [A Beginner's guide to Deep Learning based Semantic Segmentation using Keras](https://divamgupta.com/image-segmentation/2019/06/06/deep-learning-semantic-segmentation-keras.html)
+- [Example of semantic segmentation in Keras](https://github.com/mrgloom/keras-semantic-segmentation-example)
 
 
 
@@ -104,8 +107,12 @@ Captured from Cityscapes (https://www.cityscapes-dataset.com/examples/)
 
 #### Blog posts
 
-- https://blog.lunit.io/2018/07/02/deeplab-v3-encoder-decoder-with-atrous-separable-convolution-for-semantic-image-segmentation/
-- https://towardsdatascience.com/deeplabv3-c5c749322ffa
+- [DeepLab V3+: Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation](https://blog.lunit.io/2018/07/02/deeplab-v3-encoder-decoder-with-atrous-separable-convolution-for-semantic-image-segmentation/)
+- [DeepLabv3: Semantic Image Segmentation](https://towardsdatascience.com/deeplabv3-c5c749322ffa)
+- [DeepLabv3+ on your own dataset](http://hellodfan.com/2018/07/06/DeepLabv3-with-own-dataset/)
+- [Xception: Deep Learning with Depthwise Separable Convolutions](https://eremo2002.tistory.com/52)
+- [Semantic Segmentation (FCN, Fully Convolutional Network)](https://seongkyun.github.io/study/2019/12/08/segmentation/)
+- [Semantic Segmentation: Introduction to the Deep Learning Technique Behind Google Pixel’s Camera!](https://www.analyticsvidhya.com/blog/2019/02/tutorial-semantic-segmentation-google-deeplab/)
 
 
 
@@ -123,11 +130,16 @@ Captured from Cityscapes (https://www.cityscapes-dataset.com/examples/)
 - https://github.com/MSiam/TFSegmentation
 - https://github.com/qubvel/segmentation_models
 - https://github.com/divamgupta/image-segmentation-keras
+- https://github.com/NVIDIA/semantic-segmentation
 
 
 
 #### Others
 
+- [Semantic Segmentation Datasets for Urban Driving Scenes](https://autonomous-driving.org/2018/07/15/semantic-segmentation-datasets-for-urban-driving-scenes/)
 - [Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges](https://boschresearch.github.io/multimodalperception/index.html)
 - [List of annotation tools for machine learning research](https://www.simonwenkel.com/2019/07/19/list-of-annotation-tools-for-machine-learning-research.html)
+- [Annotation tools for building datasets](https://www.datasetlist.com/tools/)
+- [Machine learning datasets](https://www.datasetlist.com/)
+- [The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/)
 
