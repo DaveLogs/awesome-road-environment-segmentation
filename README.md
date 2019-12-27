@@ -12,13 +12,14 @@ Captured from Cityscapes (https://www.cityscapes-dataset.com/examples/)
 
 ## Networks by architecture
 
-#### DeepLabv3+ [paper](https://arxiv.org/abs/1802.02611)
+#### DeepLabv3+ [*paper*](https://arxiv.org/abs/1802.02611)
 
-- **[Tensorflow]** https://github.com/tensorflow/models/tree/master/research/deeplab
-- **[Tensorflow]** https://github.com/tantara/JejuNet
-- **[Keras]** https://github.com/bonlime/keras-deeplab-v3-plus
-- **[PyTorch]** https://github.com/jfzhang95/pytorch-deeplab-xception
-- **[PyTorch]** https://github.com/y-ouali/pytorch_segmentation
+- *[Tensorflow]* https://github.com/tensorflow/models/tree/master/research/deeplab
+- *[Tensorflow]* https://github.com/tantara/JejuNet
+- *[Keras]* https://github.com/bonlime/keras-deeplab-v3-plus
+- *[PyTorch]* https://github.com/jfzhang95/pytorch-deeplab-xception
+- *[PyTorch]* https://github.com/y-ouali/pytorch_segmentation
+- [more...](https://paperswithcode.com/paper/encoder-decoder-with-atrous-separable#code)
 
 
 
@@ -53,6 +54,9 @@ Captured from Cityscapes (https://www.cityscapes-dataset.com/examples/)
 - Cityscapes: https://www.cityscapes-dataset.com/benchmarks/#scene-labeling-task
 - KITTI: http://www.cvlibs.net/datasets/kitti/eval_semseg.php?benchmark=semantics2015
 - WildDash: http://www.wilddash.cc/benchmark/summary_tbl?hc=semantic_rob
+- Robust Vision Challenge: http://www.robustvision.net/leaderboard.php?benchmark=semantic
+- MIT Scene Parsing Benchmark: http://sceneparsing.csail.mit.edu/
+- 
 
 
 
@@ -60,6 +64,8 @@ Captured from Cityscapes (https://www.cityscapes-dataset.com/examples/)
 
 - Cityscapes: https://github.com/mcordts/cityscapesScripts
 - Mapillary: https://github.com/mapillary/mapillary_vistas
+- DeepDrive: https://github.com/ucbdrive/bdd-data/blob/master/bdd_data/evaluate.py
+- MIT: https://github.com/CSAILVision/sceneparsing/tree/master/evaluationCode
 
 
 
@@ -73,4 +79,16 @@ Captured from Cityscapes (https://www.cityscapes-dataset.com/examples/)
 - Blog posts
   - https://blog.lunit.io/2018/07/02/deeplab-v3-encoder-decoder-with-atrous-separable-convolution-for-semantic-image-segmentation/
   - https://towardsdatascience.com/deeplabv3-c5c749322ffa
+- Awesome series
+  - https://github.com/mrgloom/awesome-semantic-segmentation
+  - https://github.com/nightrome/really-awesome-semantic-segmentation
+  - https://github.com/Tramac/awesome-semantic-segmentation-pytorch
+- Reference repositories
+  - https://github.com/GeorgeSeif/Semantic-Segmentation-Suite
+  - https://github.com/MSiam/TFSegmentation
+  - https://github.com/qubvel/segmentation_models
+  - https://github.com/divamgupta/image-segmentation-keras
+- Others
+  - [Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges](https://boschresearch.github.io/multimodalperception/index.html)
+  - 
 
