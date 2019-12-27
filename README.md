@@ -137,7 +137,7 @@ Captured from Cityscapes (https://www.cityscapes-dataset.com/examples/)
 #### Others
 
 - [Semantic Segmentation Datasets for Urban Driving Scenes](https://autonomous-driving.org/2018/07/15/semantic-segmentation-datasets-for-urban-driving-scenes/)
-- [Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges](https://boschresearch.github.io/multimodalperception/index.html)
+- [Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving](https://boschresearch.github.io/multimodalperception/index.html)
 - [List of annotation tools for machine learning research](https://www.simonwenkel.com/2019/07/19/list-of-annotation-tools-for-machine-learning-research.html)
 - [Annotation tools for building datasets](https://www.datasetlist.com/tools/)
 - [Machine learning datasets](https://www.datasetlist.com/)
