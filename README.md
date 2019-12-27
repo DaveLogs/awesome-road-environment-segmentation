@@ -53,7 +53,11 @@ Captured from Cityscapes (https://www.cityscapes-dataset.com/examples/)
 
 ## Annotation tools
 
-
+- https://github.com/wkentaro/labelme
+- https://github.com/labelbox/labelbox
+- https://github.com/abreheret/PixelAnnotationTool
+- https://github.com/buni-rock/Pixie
+- http://www.robots.ox.ac.uk/~vgg/software/via/via.html
 
 
 
@@ -125,4 +129,5 @@ Captured from Cityscapes (https://www.cityscapes-dataset.com/examples/)
 #### Others
 
 - [Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges](https://boschresearch.github.io/multimodalperception/index.html)
+- [List of annotation tools for machine learning research](https://www.simonwenkel.com/2019/07/19/list-of-annotation-tools-for-machine-learning-research.html)
 
