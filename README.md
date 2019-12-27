@@ -2,6 +2,8 @@
 
 
 
+![Example of cityscapes](images/cityscapes.png)
+
 
 
 ## Networks by architecture
