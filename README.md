@@ -96,14 +96,14 @@ Captured from Cityscapes (https://www.cityscapes-dataset.com/examples/)
 
 
 
-####Blog posts
+#### Blog posts
 
 - https://blog.lunit.io/2018/07/02/deeplab-v3-encoder-decoder-with-atrous-separable-convolution-for-semantic-image-segmentation/
 - https://towardsdatascience.com/deeplabv3-c5c749322ffa
 
 
 
-####Awesome series
+#### Awesome series
 
 - https://github.com/mrgloom/awesome-semantic-segmentation
 - https://github.com/nightrome/really-awesome-semantic-segmentation
@@ -111,7 +111,7 @@ Captured from Cityscapes (https://www.cityscapes-dataset.com/examples/)
 
 
 
-####Reference repositories
+#### Reference repositories
 
 - https://github.com/GeorgeSeif/Semantic-Segmentation-Suite
 - https://github.com/MSiam/TFSegmentation
@@ -120,7 +120,7 @@ Captured from Cityscapes (https://www.cityscapes-dataset.com/examples/)
 
 
 
-####Others
+#### Others
 
 - [Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges](https://boschresearch.github.io/multimodalperception/index.html)
 
