@@ -4,6 +4,8 @@
 
 ![Example of cityscapes](images/cityscapes.png)
 
+Captured from Cityscapes (https://www.cityscapes-dataset.com/examples/)
+
 
 
 ## Networks by architecture
