@@ -60,6 +60,8 @@ Captured from Cityscapes (https://www.cityscapes-dataset.com/examples/)
 - https://github.com/abreheret/PixelAnnotationTool
 - https://github.com/buni-rock/Pixie
 - http://www.robots.ox.ac.uk/~vgg/software/via/via.html
+- https://github.com/opencv/cvat
+
 
 
 
